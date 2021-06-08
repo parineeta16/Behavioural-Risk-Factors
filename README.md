@@ -1,11 +1,6 @@
 # Behavioral Risk Factors
 This project identifies how an individual’s features, day-to-day activities, and existing medical conditions can impact their probability of contracting different diseases.With the help of the BRFSS dataset provided by the Centers for Disease Control and Prevention (CDC), the project explores the correlation between an individual’s attributes and their diseases. The project aims to develop data-driven insights to assist individuals in devising effective and accurate long-term strategies to mitigate the probability of them contracting a particular disease. On a large scale, these insights can help policymakers and communities develop effective policies for all individuals. The paper selects cardiovascular diseases, diabetes, and mental health disorders as the target variables and all other attributes as training data for this classification problem.
 
-## Team Members
-* Amit Sharma
-* Pranav Karmalkar
-* Swapnil Avinash Parihar
-
 ## How To run the Project
 
 Full dataset for the project can be found at https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system
